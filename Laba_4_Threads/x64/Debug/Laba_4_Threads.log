@@ -1,0 +1,3 @@
+﻿  Laba_4_Threads.cpp
+C:\Users\silve\source\repos\Laba_4_Threads\Laba_4_Threads\Laba_4_Threads.cpp(91,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Laba_4_Threads.vcxproj -> C:\Users\silve\source\repos\Laba_4_Threads\x64\Debug\Laba_4_Threads.exe
